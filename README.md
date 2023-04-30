@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this project, I build a home lab for active directory. Using PowerShell I generated users to get user account name and passwords for hunderds of people. 
+In this project, I build a home lab for active directory. Using PowerShell I generated users to get user account name and passwords for hundreds of people. 
 
 ## Virtual Machines used During the Project.
 ![Arc](https://i.imgur.com/nMjYnVK.png)
